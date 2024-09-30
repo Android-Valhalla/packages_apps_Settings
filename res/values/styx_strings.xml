@@ -3,6 +3,10 @@
     <string name="styx_version_title">Styx version</string>
     <string name="styx_info_default">Unknown</string>
 
+    <!-- DerpFest maintainer -->
+    <string name="BuildVID">Build</string>
+    <string name="Buildverstring" translatable="false">VR1.35.DEV.DEV02</string>
+    
     <!-- Battery Info: Technology -->
     <string name="battery_technology">Technology</string>
     <string name="battery_technology_not_available">@string/battery_cycle_count_not_available</string>

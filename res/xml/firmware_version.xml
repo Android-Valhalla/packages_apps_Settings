@@ -64,6 +64,10 @@
         settings:controller="com.android.settings.deviceinfo.firmwareversion.KernelVersionPreferenceController"/>
 
     <!-- Build -->
+    <Preference
+        android:key="os_build_number"
+        android:title="@string/BuildVID"
+        android:summary="@string/Buildverstring" /> 
     <!-- <Preference
         android:key="os_build_number"
         android:title="@string/build_number"
